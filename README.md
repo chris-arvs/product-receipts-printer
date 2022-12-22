@@ -1,4 +1,4 @@
-# product-recites-printer
+# product-receipts-printer
 
 In this project the user has to give a file with receipts in format like ReceiptFileBig.
 After that the user has two choices for printing:
